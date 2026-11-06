@@ -1,0 +1,14 @@
+# Exclude browser binaries and zip packages
+chromedriver*
+*.exe
+*.zip
+*.rar
+
+# IDE & Python cache
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+dataSources.local.xml
